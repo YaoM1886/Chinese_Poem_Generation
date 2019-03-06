@@ -1,0 +1,3 @@
+接口在generate_poem.py和poem_translate下，其他文件可忽略之
+具体怎么用，直接看内容即可，或者直接运行
+
